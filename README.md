@@ -1,1 +1,1 @@
-# SimeLabs-NewsAPP
+# SimeLabs-NewsApp
